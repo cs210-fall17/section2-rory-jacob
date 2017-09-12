@@ -16,7 +16,7 @@ public class Hello {
     }
 
     public static void goldLeader() {
-
+system.out.println("wilhelm screen")
         // Gold Leader should add a print statement that says "Loosen up!"
 
 
